@@ -1,0 +1,11 @@
+*.csv
+*.png
+*.gif
+*.jpeg
+*.py[cod]
+*.$py.class
+*.ini
+*.ico
+*.bmp
+*.drawio
+__pycache__/
